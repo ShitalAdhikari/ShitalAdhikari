@@ -4,7 +4,7 @@
 **ShitalAdhikari/ShitalAdhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on YOLO object detection.
+- 🔭 I’m currently working on Scientific Machine Learning (SciML) at Stevens Institute of Technology.
 - 🌱 I’m currently learning Computational Linear Algebra.
 - 👯 I’m looking to collaborate on Impact of Augmentation methods on Object Detection.
 - 🤔 I’m looking for help with new projects and research collaboration.
