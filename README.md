@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with new projects and research collaboration.
 - 💬 Ask me about anything.
 - 📫 How to reach me: via mail.
-- ⚡ Fun fact: We are living in the simulation but we don't know about simulator.
+- ⚡ Fun fact: We are living in the simulation and we don't know about simulator.
 
 ![ShitalAdhikari GitHub stats](https://github-readme-stats.vercel.app/api?username=ShitalAdhikari&count_private=true&theme=dracula)
 
