@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Scientific Machine Learning (SciML) at Stevens Institute of Technology.
 - 🌱 I’m currently learning Computational Linear Algebra.
-- 👯 I’m looking to collaborate on Impact of Augmentation methods on Object Detection.
+- 👯 I’m looking for collaboration on Scientific Machine Learning.
 - 🤔 I’m looking for help with new projects and research collaboration.
 - 💬 Ask me about anything.
 - 📫 How to reach me: via mail.
